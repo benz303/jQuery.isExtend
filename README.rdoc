@@ -1,0 +1,28 @@
+== SUMMARY
+
+jQuery.isExtend is a jQuery plugin to determine the type.
+
+== Example
+
+Test page see http://benz303.github.com/jQuery.isExtend/
+
+  jQuery.isElement
+  jQuery.isArray
+  jQuery.isObject
+  jQuery.isArguments
+  jQuery.isFunction
+  jQuery.isString
+  jQuery.isNumber
+  jQuery.isNaN
+  jQuery.isBoolean
+  jQuery.isDate
+  jQuery.isRegExp
+  jQuery.isNull
+  jQuery.isUndefined
+  jQuery.isjQuery
+  
+  jQuery.isType(obj)
+  jQuery.isType(obj, types)
+  
+  jQuery.isEmpty
+  jQuery.isBlank = jQuery.isEmpty;
